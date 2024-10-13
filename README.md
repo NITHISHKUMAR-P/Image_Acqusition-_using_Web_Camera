@@ -21,8 +21,8 @@ Resize each frame, create a blank image, divide it into quadrants, and assign re
 Display processed frames on the screen using cv2.imshow(), and continuously check for a termination signal (e.g., pressing 'q' key) to break out of the loop.
 
 ## Program:
-### Developed By: Sowmiya N
-### Register No: 212221230106
+### Developed By: Nithishkumar P
+### Register No: 212221230070
 ## i) Write the frame as JPG file
 ```
 import cv2
@@ -91,12 +91,13 @@ cv2.destroyAllWindows()
 ```
 ## Output
 ### i) Write the frame as JPG image
-![op](./1.png)
+![image](https://github.com/user-attachments/assets/f7bf2553-85df-4990-89f9-4c201327c8df)
 ### ii) Display the video
-![op](./2.png)
+![image](https://github.com/user-attachments/assets/92e82f9d-1e78-4a27-89a1-903e32c7be80)
 ### iii) Display the video by resizing the window
-![op](./3.png)
+![image](https://github.com/user-attachments/assets/583a5aaf-2171-4d21-a302-62ebcb3b3d83)
 ### iv) Rotate and display the video
-![op](./4.png)
+![image](https://github.com/user-attachments/assets/1fdc0f80-9d81-43ce-b59f-f27b31af3b10)
+
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
